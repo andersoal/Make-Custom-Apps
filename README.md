@@ -1,15 +1,20 @@
-# Make (Formerly know as Integromat)
+# Make (Formerly known as Integromat) Custom Apps
 
-This is a repository for all the Apps that will be posted publicly for collaborative development and support
+This repository contains custom Apps for Make (formerly Integromat), intended for public collaborative development and support.
 
-[Integromat - Developer Platform](https://www.integromat.com/en/developers)
+## Resources
 
-The documentation is available at:
+- [Custom Apps Documentation | Make Developer Hub](https://developers.make.com/custom-apps-documentation)
+- [Make - Help Center (help.make.com)](https://help.make.com/)
+- [Make Community](https://community.make.com/)
 
-[Integromat Apps - Read the docs](https://docs.integromat.com/apps/)
+<!--
+## Access and Support
 
-For more information and to receive the URL that give access for each one of the apps:
+For more information and to receive the access URLs for each app, visit:
 
-[AndyDaSilva52.github.io/integromat apps](https://andydasilva52.github.io/integromat_apps/)
+To request an invite to the apps, you can contact me on [Telegram](https://t.me/AndyDaSilva52).
 
-You can ask me for invite to the app's at [Telegram](https://t.me/AndyDaSilva52)
+-->
+
+
