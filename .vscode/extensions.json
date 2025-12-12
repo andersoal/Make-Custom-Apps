@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "integromat.apps-sdk",
+        "dakara.transformer",
+        "shyykoserhiy.git-autoconfig",
+        "donjayamanne.githistory",
+        "oliversturm.fix-json",
+        "nextfaze.json-parse-stringify",
+        "wallabyjs.quokka-vscode"
+    ]
+}
